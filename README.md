@@ -95,7 +95,7 @@
 | loading.io     | https://loading.io/  | 各种 loading 效果，总有一款是你喜欢的             |
 | httpbin.org  | http://httpbin.org/  | 当你未拥有自己的服务器却又希望获得真实的网络请求时，该网站能帮到你             |
 | Littera  | http://kvazars.com/littera/  | 超强大的在线字体生成             |
-| OpenGameArt.org/  | https://opengameart.org/  | 丰富的游戏图片素材，下载图片后可用 pngsplit 软件分割素材             |
+| OpenGameArt.org/  | https://opengameart.org/  | 丰富的游戏图片素材，下载图片后可用 softwares 目录中的 pngsplit 软件分割素材             |
 
 
 ## 数理相关
