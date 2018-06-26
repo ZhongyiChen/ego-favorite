@@ -14,7 +14,8 @@
 | Vue.js     | https://cn.vuejs.org/  | 尤雨溪创建的一个MVVM前端开发框架                             |
 | brm.io     | http://brm.io/  | 一个强大的物理引擎集合                             |
 | Methodology / BEM     | https://en.bem.info/  | 一种用于团队合作的命名规范                             |
-| Liquid template language | https://shopify.github.io/liquid/  | 一种应用广泛的开源模板语言                             |
+| Liquid template language | https://shopify.github.io/liquid/  | 一种应用广泛的开源模板语言                             |
+| Snap.svg | http://snapsvg.io/  | 一个用 svg 制作动画的库             |
 
 
 ## UI 框架
