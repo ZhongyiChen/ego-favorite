@@ -77,6 +77,7 @@
 | H5说       | http://www.h5shuo.com/  | H5知名案例与团队集合，需在手机上浏览             |
 | CMISCM       | http://fff.cmiscm.com/  | 国外对H5各种能力的测试案例             |
 | voice       | https://win7killer.github.io/can_demo/demo/voice.html  | 利用 HTML5 API 实现了钢琴模拟器             |
+| 拍拍小店    | http://jdc.jd.com/fd/pp/weixiaodian_welcome/index.html  | 完全符合 12 条动画法则的H5案例             |
 
 
 ## CSS 酷
