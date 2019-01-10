@@ -115,6 +115,7 @@
 | myPhysicsLab     | https://www.myphysicslab.com/  | Erik Neumann个人网站，使用canvas模拟物理世界             |
 | Physics Notes     | https://landgreen.github.io/physics/index.html  | 初高中物理笔记             |
 
+
 ## 动画相关
 
 | 网站名称          | 网站链接                                                | 网站描述                                          |
@@ -122,3 +123,9 @@
 | LottieFiles     | https://www.lottiefiles.com/  | Adobe After Effects 制作的可供网站使用的动画             |
 | 关于动画你需要知道的     | https://www.h5jun.com/post/animations-you-should-know.html  | 十年踪迹对总结的JS和CSS动画注意事项             |
 | Intro CSS 3D transforms     | https://3dtransforms.desandro.com/  | 渐进解析CSS3的transform3D的用法             |
+
+## Web规范
+
+| 网站名称          | 网站链接                                                | 网站描述                                          |
+| ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
+| W3 SVG     | https://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html  | SVG 标准             |
