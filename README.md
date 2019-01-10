@@ -14,7 +14,8 @@
 | Vue.js     | https://cn.vuejs.org/  | 尤雨溪创建的一个MVVM前端开发框架                             |
 | brm.io     | http://brm.io/  | 一个强大的物理引擎集合                             |
 | Methodology / BEM     | https://en.bem.info/  | 一种用于团队合作的命名规范                             |
-| Liquid template language | https://shopify.github.io/liquid/  | 一种应用广泛的开源模板语言                             |
+| Liquid template language | https://shopify.github.io/liquid/  | 一种应用广泛的开源模板语言                             |
+| Snap.svg | http://snapsvg.io/  | 一个用 svg 制作动画的库             |
 
 
 ## UI 框架
@@ -65,7 +66,8 @@
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | AlloyTeam       | http://www.alloyteam.com/  | 腾讯的一个知名团队，拥有众多开源项目             |
 | TgIdeas       | http://tgideas.qq.com/  | 腾讯QQ的一个知名团队，在H5领域发布了大量文章     |
-| 百度EUX       | http://eux.baidu.com/  | 百度的一个知名团队，网站博客内容丰富             |
+| 百度EUX       | http://eux.baidu.com/  | 百度的一个知名团队，网站博客内容丰富             |
+| 凹凸实验室     | https://aotu.io/  | 京东用户体验设计部                   |
 
 
 ## H5 专场
@@ -75,6 +77,7 @@
 | H5说       | http://www.h5shuo.com/  | H5知名案例与团队集合，需在手机上浏览             |
 | CMISCM       | http://fff.cmiscm.com/  | 国外对H5各种能力的测试案例             |
 | voice       | https://win7killer.github.io/can_demo/demo/voice.html  | 利用 HTML5 API 实现了钢琴模拟器             |
+| 拍拍小店    | http://jdc.jd.com/fd/pp/weixiaodian_welcome/index.html  | 完全符合 12 条动画法则的H5案例             |
 
 
 ## CSS 酷
@@ -86,7 +89,9 @@
 | Grabient | https://www.grabient.com/  | 在线生成 CSS3 渐变背景效果          |
 | uiGrabients | https://uigradients.com/  | 在线生成 CSS3 更加复杂的渐变背景效果          |
 | CSS-Tricks | https://css-tricks.com/  | 大量的 CSS 案例，加深我们对 CSS 能力的理解          |
-| Colors | http://clrs.cc/  | 网站安全色          |
+| Colors | http://clrs.cc/  | 网站安全色          |
+| CSS Triggers | https://csstriggers.com/  | 列举了各种 css 值变化时会触发页面变化的部分  |
+| Stylie | http://jeremyckahn.github.io/stylie/ | 手动生成贝塞尔曲线动画样式 |
 
 
 ## 前端工具
