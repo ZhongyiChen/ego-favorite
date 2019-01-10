@@ -138,3 +138,11 @@
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | Interview Cake     | https://www.interviewcake.com/  | 集合了各种数据结构和算法             |
 | Algorithm Visualizer     | https://algorithm-visualizer.org/  | 算法可视化             |
+
+
+## IT技巧
+
+| 网站名称          | 网站链接                                                | 网站描述                                          |
+| ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
+| prompt(1) to win     | http://prompt.ml/  | XSS训练场             |
+| XSSChallengeWiki     | https://github.com/cure53/XSSChallengeWiki/wiki/prompt.ml  | XSS训练手册             |
