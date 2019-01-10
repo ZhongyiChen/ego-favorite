@@ -125,11 +125,12 @@
 | 关于动画你需要知道的     | https://www.h5jun.com/post/animations-you-should-know.html  | 十年踪迹对总结的JS和CSS动画注意事项             |
 | Intro CSS 3D transforms     | https://3dtransforms.desandro.com/  | 渐进解析CSS3的transform3D的用法             |
 
-## Web规范
+## SVG相关
 
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | W3 SVG     | https://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html  | SVG 标准             |
+| How to Use SVG Patterns as Backgrounds     | https://webdesign.tutsplus.com/tutorials/how-to-use-svg-patterns-as-backgrounds--cms-31507  | 教你如何使用SVG图案作为网站背景             |
 
 
 ## 编程基础
