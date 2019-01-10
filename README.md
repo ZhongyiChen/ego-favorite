@@ -119,3 +119,4 @@
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | LottieFiles     | https://www.lottiefiles.com/  | Adobe After Effects 制作的可供网站使用的动画             |
+| 关于动画你需要知道的     | https://www.h5jun.com/post/animations-you-should-know.html  | 十年踪迹对总结的JS和CSS动画注意事项             |
