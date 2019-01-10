@@ -84,6 +84,7 @@
 | CSS3 Patterns Gallery | http://lea.verou.me/css3patterns/  | Lea Verou 用 CSS3 实现的各种花纹图案             |
 | CSS gradients with background-blend-mode | http://bennettfeely.com/gradients/  | 用 CSS 的 background-image 属性实现的各种花纹图案 |
 | Grabient | https://www.grabient.com/  | 在线生成 CSS3 渐变背景效果          |
+| uiGrabients | https://uigradients.com/  | 在线生成 CSS3 更加复杂的渐变背景效果          |
 | CSS-Tricks | https://css-tricks.com/  | 大量的 CSS 案例，加深我们对 CSS 能力的理解          |
 | Colors | http://clrs.cc/  | 网站安全色          |
 
@@ -105,4 +106,5 @@
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | BetterExplained     | https://betterexplained.com/  | 通俗易懂地解释一些数学概念             |
 | myPhysicsLab     | https://www.myphysicslab.com/  | Erik Neumann个人网站，使用canvas模拟物理世界             |
+| Physics Notes     | https://landgreen.github.io/physics/index.html  | 初高中物理笔记             |
 
