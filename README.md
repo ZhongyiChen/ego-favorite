@@ -47,6 +47,7 @@
 | JavaScript标准参考教程     | http://javascript.ruanyifeng.com/  | 阮一峰所写的完整的ES5教程                |
 | ECMAScript 6 入门     | http://es6.ruanyifeng.com/  | 阮一峰所写的完整的ES6教程                     |
 | Learning JavaScript Design  | https://addyosmani.com/resources/essentialjsdesignpatterns/book/  | JavaScript 设计模式          |
+| Read Free Data Science Books  | https://blog.paralleldots.com/data-science/must-read-free-data-science-books/  | 数据分析/机器学习 必看          |
 
 
 ## 知名博主
