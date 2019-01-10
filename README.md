@@ -139,6 +139,7 @@
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | Interview Cake     | https://www.interviewcake.com/  | 集合了各种数据结构和算法             |
 | Algorithm Visualizer     | https://algorithm-visualizer.org/  | 算法可视化             |
+| Graph Data Structures     | https://adrianmejia.com/blog/2018/05/14/data-structures-for-beginners-graphs-time-complexity-tutorial/  | 为IT入门人员提供的数据结构图形解析             |
 
 
 ## IT技巧
