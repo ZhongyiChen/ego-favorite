@@ -113,3 +113,8 @@
 | myPhysicsLab     | https://www.myphysicslab.com/  | Erik Neumann个人网站，使用canvas模拟物理世界             |
 | Physics Notes     | https://landgreen.github.io/physics/index.html  | 初高中物理笔记             |
 
+## 动画相关
+
+| 网站名称          | 网站链接                                                | 网站描述                                          |
+| ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
+| LottieFiles     | https://www.lottiefiles.com/  | Adobe After Effects 制作的可供网站使用的动画             |
