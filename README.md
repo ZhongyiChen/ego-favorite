@@ -22,9 +22,10 @@
 
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
-| Vuetify.js     | https://vuetifyjs.com/  | 一个基于Vue的渐进式的UI框架，其希望所构建的网站能达到APP级别的体验                    |
+| Vuetify     | https://vuetifyjs.com/  | 一个基于Vue的渐进式的UI框架，其希望所构建的网站能达到APP级别的体验                    |
 | Amaze UI     | http://amazeui.org/  | 一个基于以移动优先的适配所有屏幕的UI框架，轻量，高性能，组件化                    |
 | LuLu UI     | https://l-ui.com/  | 一个更纯粹、更自由的UI框架，兼容IE8                    |
+| Project Titon     | http://titon.io/en  | 一个以前用jQuery，即将用react的语义化UI框架                    |
 
 
 ## JavaScript 工具学习
@@ -124,6 +125,7 @@
 | LottieFiles     | https://www.lottiefiles.com/  | Adobe After Effects 制作的可供网站使用的动画             |
 | 关于动画你需要知道的     | https://www.h5jun.com/post/animations-you-should-know.html  | 十年踪迹对总结的JS和CSS动画注意事项             |
 | Intro CSS 3D transforms     | https://3dtransforms.desandro.com/  | 渐进解析CSS3的transform3D的用法             |
+
 
 ## SVG相关
 
