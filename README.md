@@ -96,6 +96,7 @@
 | Colors | http://clrs.cc/  | 网站安全色          |
 | CSS Triggers | https://csstriggers.com/  | 列举了各种 css 值变化时会触发页面变化的部分  |
 | Stylie | http://jeremyckahn.github.io/stylie/ | 手动生成贝塞尔曲线动画样式 |
+| IE兼容 | https://blog.csdn.net/weixin_41404460/article/details/84952643 | css hack |
 
 
 ## 前端工具
