@@ -109,6 +109,7 @@
 | Littera  | http://kvazars.com/littera/  | 超强大的在线字体生成             |
 | OpenGameArt  | https://opengameart.org/  | 丰富的游戏图片素材，下载图片后可用 softwares 目录中的 pngsplit 软件分割素材             |
 | Everything Fonts  | https://everythingfonts.com/  | 集合了字体编辑、字体格式转换等字体功能             |
+| SVG在线压缩合并工具  | https://www.zhangxinxu.com/sp/svgo/  | 把SVG文件encode化             |
 
 
 ## 数理相关
