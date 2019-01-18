@@ -61,6 +61,7 @@
 | Lea Verou的个人网站  | http://lea.verou.me/  | 《CSS 秘密》的作者，W3C委员会成员之一              |
 | EtherDream的原创空间  | https://www.cnblogs.com/index-html/  | 前端安全领域的知名博主              |
 | Glenn Fiedler的个人空间  | https://gafferongames.com/  | 游戏物理原理的知名博主              |
+| Nayuki的个人空间  | https://www.nayuki.io/  | 一个专注于为实际应用编写清晰简单代码的数学爱好者              |
 
 
 ## 知名团队
