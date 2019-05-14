@@ -16,6 +16,7 @@
 | Methodology / BEM     | https://en.bem.info/  | 一种用于团队合作的命名规范                             |
 | Liquid template language | https://shopify.github.io/liquid/  | 一种应用广泛的开源模板语言                             |
 | Snap.svg | http://snapsvg.io/  | 一个用 svg 制作动画的库             |
+| Phaser.js     | https://phaser.io/  | 国外最流行的web游戏框架                             |
 
 
 ## UI 框架
