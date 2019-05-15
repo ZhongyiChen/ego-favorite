@@ -144,11 +144,12 @@
 | gitmoji     | https://gitmoji.carloscuesta.me/  | 各种关于 git commit 的 emoji             |
 
 
-## AI相关
+## AI/ML/DL相关
 
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | wink     | https://winkjs.org/  | 关于 NLP/ML/Statistics 的 JavaScript 解决方案             |
+| Deep Learning Book Series  | https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/  | 深度学习书籍系列入门          |
 
 
 ## Engineering相关
