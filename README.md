@@ -11,6 +11,7 @@
 
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
+| TypeScript     | http://www.typescriptlang.org/index.html  | TypeScript 官网                             |
 | Vue.js     | https://cn.vuejs.org/  | 尤雨溪创建的一个MVVM前端开发框架                             |
 | brm.io     | http://brm.io/  | 一个强大的物理引擎集合                             |
 | Methodology / BEM     | https://en.bem.info/  | 一种用于团队合作的命名规范                             |
