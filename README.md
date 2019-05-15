@@ -43,7 +43,6 @@
 | CodePen     | https://codepen.io/  | 前端训练场，在线代码编辑，各种美妙的案例藏在其中              |
 | Sit the Test     | https://sitthetest.com/tests  | HTML/CSS/JS 基础测试              |
 | TBS 腾讯浏览服务  | http://x5.tencent.com/tbs/index.html  | 腾讯 X5 内核阐释              |
-| Creating A Basic Chrome Extension  | https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/  | 手把手教你创建一个 Chrome 扩展              |
 
 
 ## JavaScript 在线书籍
@@ -174,7 +173,6 @@
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | W3 SVG     | https://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html  | SVG 标准             |
-| How to Use SVG Patterns as Backgrounds     | https://webdesign.tutsplus.com/tutorials/how-to-use-svg-patterns-as-backgrounds--cms-31507  | 教你如何使用SVG图案作为网站背景             |
 
 
 ## Graph相关
@@ -227,4 +225,12 @@
 | Hacklily     | https://www.hacklily.org/  | 在线编写乐谱站点             |
 | Draw.io     | https://www.draw.io/  | 在线编辑流程框图、思维导图、商业分析图等各种矢量图的站点             |
 | Six games you must be able to make in less than a day      | https://www.emanueleferonato.com/2010/05/07/6-games-you-must-be-able-to-make-in-less-than-a-day/  | 游戏开发者，6个你必须能够快速完成的游戏             |
+
+
+## How系列
+
+| 网站名称          | 网站链接                                                | 网站描述                                          |
+| ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | Creating a QR Code step by step     | https://www.nayuki.io/page/creating-a-qr-code-step-by-step  | 手把手教你制作一个二维码             |
+| How to Use SVG Patterns as Backgrounds     | https://webdesign.tutsplus.com/tutorials/how-to-use-svg-patterns-as-backgrounds--cms-31507  | 教你如何使用SVG图案作为网站背景             |
+| Creating A Basic Chrome Extension  | https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/  | 手把手教你创建一个 Chrome 扩展              |
