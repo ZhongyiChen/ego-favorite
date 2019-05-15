@@ -122,6 +122,7 @@
 | SVG在线压缩合并工具  | https://www.zhangxinxu.com/sp/svgo/  | 把SVG文件encode化             |
 | Fontmin  | https://efe.baidu.com/blog/fontmin-getting-started/  | Unicode字体压缩             |
 | Snipper.io  | https://snipper.io/  | 在线编辑代码，实时分享             |
+| Squoosh  | https://squoosh.app/  | Google开发维护的图片在线压缩工具             |
 
 
 ## 数理相关
