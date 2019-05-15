@@ -225,6 +225,7 @@
 | Hacklily     | https://www.hacklily.org/  | 在线编写乐谱站点             |
 | Draw.io     | https://www.draw.io/  | 在线编辑流程框图、思维导图、商业分析图等各种矢量图的站点             |
 | Six games you must be able to make in less than a day      | https://www.emanueleferonato.com/2010/05/07/6-games-you-must-be-able-to-make-in-less-than-a-day/  | 游戏开发者，6个你必须能够快速完成的游戏             |
+| Rainy Mood     | https://rainymood.com/  | 一个帮助你集中精神、放松以及睡眠的网站             |
 
 
 ## How系列
