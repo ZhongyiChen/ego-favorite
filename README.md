@@ -43,7 +43,7 @@
 | CodePen     | https://codepen.io/  | 前端训练场，在线代码编辑，各种美妙的案例藏在其中              |
 | Sit the Test     | https://sitthetest.com/tests  | HTML/CSS/JS 基础测试              |
 | TBS 腾讯浏览服务  | http://x5.tencent.com/tbs/index.html  | 腾讯 X5 内核阐释              |
-| Egret 使用心得  | https://www.indienova.com/u/monkeybean/blogread/2188  | 一篇非常完整的介绍如何入门 egret 的博文              |
+| Creating A Basic Chrome Extension  | https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/  | 手把手教你创建一个 Chrome 扩展              |
 
 
 ## JavaScript 在线书籍
