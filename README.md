@@ -117,6 +117,7 @@
 | Everything Fonts  | https://everythingfonts.com/  | 集合了字体编辑、字体格式转换等字体功能             |
 | SVG在线压缩合并工具  | https://www.zhangxinxu.com/sp/svgo/  | 把SVG文件encode化             |
 | Fontmin  | https://efe.baidu.com/blog/fontmin-getting-started/  | Unicode字体压缩             |
+| Snipper.io  | https://snipper.io/  | 在线编辑代码，实时分享             |
 
 
 ## 数理相关
