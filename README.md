@@ -67,6 +67,7 @@
 | Glenn Fiedler的个人空间  | https://gafferongames.com/  | 游戏物理原理的知名博主              |
 | Nayuki的个人空间  | https://www.nayuki.io/  | 一个专注于为实际应用编写清晰简单代码的数学爱好者              |
 | Emanuele Feronato  | https://www.emanueleferonato.com/  | 意大利籍游戏开发专家              |
+| Una Kravets  | https://una.im/  | 设计/CSS/前端开发专家              |
 
 
 ## 知名团队
