@@ -215,6 +215,7 @@
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | prompt(1) to win     | http://prompt.ml/  | XSS训练场             |
 | XSSChallengeWiki     | https://github.com/cure53/XSSChallengeWiki/wiki/prompt.ml  | XSS训练手册             |
+| Redirect Detective     | http://redirectdetective.com/  | 帮助你追踪网站的跳转路径             |
 
 
 ## 有趣站点
