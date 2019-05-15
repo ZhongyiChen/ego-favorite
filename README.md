@@ -227,3 +227,4 @@
 | Hacklily     | https://www.hacklily.org/  | 在线编写乐谱站点             |
 | Draw.io     | https://www.draw.io/  | 在线编辑流程框图、思维导图、商业分析图等各种矢量图的站点             |
 | Six games you must be able to make in less than a day      | https://www.emanueleferonato.com/2010/05/07/6-games-you-must-be-able-to-make-in-less-than-a-day/  | 游戏开发者，6个你必须能够快速完成的游戏             |
+| Creating a QR Code step by step     | https://www.nayuki.io/page/creating-a-qr-code-step-by-step  | 手把手教你制作一个二维码             |
