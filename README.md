@@ -123,6 +123,7 @@
 | Fontmin  | https://efe.baidu.com/blog/fontmin-getting-started/  | Unicode字体压缩             |
 | Snipper.io  | https://snipper.io/  | 在线编辑代码，实时分享             |
 | Squoosh  | https://squoosh.app/  | Google开发维护的图片在线压缩工具             |
+| Get the Font  | https://www.getthefont.com/  | 根据字体族名称获取字体文件             |
 
 
 ## 数理相关
