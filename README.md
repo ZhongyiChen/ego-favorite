@@ -2,20 +2,20 @@
 
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
-| Node.js           | https://nodejs.org/en/  | Node，不是一个库，也不是一个框架，而是一个生态系统         |
 | 正则表达式编程     | https://www.tuicool.com/articles/mYNvAvI  | 使用JavaScript基础API实现正则表达式的编程需要       |
 | 练习正则表达式     | https://regexr.com/     | 用于在线练习、创建正则表达式，并附有完整的正则表达式文档       |
 | JSDoc     | http://shouce.jb51.net/jsdoc/index.html     | JavaScript 注释全解       |
+| Methodology / BEM     | https://en.bem.info/  | 一种用于团队合作的命名规范                             |
 
 
 ## JavaScript 工具库与框架
 
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
+| Node.js           | https://nodejs.org/en/  | Node，不是一个库，也不是一个框架，而是一个生态系统         |
 | TypeScript     | http://www.typescriptlang.org/index.html  | TypeScript 官网                             |
 | Vue.js     | https://cn.vuejs.org/  | 尤雨溪创建的一个MVVM前端开发框架                             |
 | brm.io     | http://brm.io/  | 一个强大的物理引擎集合                             |
-| Methodology / BEM     | https://en.bem.info/  | 一种用于团队合作的命名规范                             |
 | Liquid template language | https://shopify.github.io/liquid/  | 一种应用广泛的开源模板语言                             |
 | Snap.svg | http://snapsvg.io/  | 一个用 svg 制作动画的库             |
 | Phaser.js     | https://phaser.io/  | 国外最流行的web游戏框架                             |
@@ -228,6 +228,7 @@
 | prompt(1) to win     | http://prompt.ml/  | XSS训练场             |
 | XSSChallengeWiki     | https://github.com/cure53/XSSChallengeWiki/wiki/prompt.ml  | XSS训练手册             |
 | Redirect Detective     | http://redirectdetective.com/  | 帮助你追踪网站的跳转路径             |
+| 移动端开发调试技巧     | https://futu.im/article/how-to-debug-webview/  | 本文汇总了一些在移动端开发方面的调试工具和常见技巧             |
 
 
 ## 有趣站点
