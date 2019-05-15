@@ -87,6 +87,7 @@
 | voice       | https://win7killer.github.io/can_demo/demo/voice.html  | 利用 HTML5 API 实现了钢琴模拟器             |
 | 拍拍小店    | http://jdc.jd.com/fd/pp/weixiaodian_welcome/index.html  | 完全符合 12 条动画法则的H5案例             |
 | H5频道    | https://cases.aotu.io/  | 凹凸实验室收集的H5案例             |
+| 移动端H5多平台分享实践    | https://www.jianshu.com/p/dc96566001da  | 一套较为完整的分享方案             |
 
 
 ## CSS 相关
