@@ -5,6 +5,7 @@
 | Node.js           | https://nodejs.org/en/  | Node，不是一个库，也不是一个框架，而是一个生态系统         |
 | 正则表达式编程     | https://www.tuicool.com/articles/mYNvAvI  | 使用JavaScript基础API实现正则表达式的编程需要       |
 | 练习正则表达式     | https://regexr.com/     | 用于在线练习、创建正则表达式，并附有完整的正则表达式文档       |
+| JSDoc     | http://shouce.jb51.net/jsdoc/index.html     | JavaScript 注释全解       |
 
 
 ## JavaScript 工具库与框架
