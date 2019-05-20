@@ -70,6 +70,7 @@
 | Nayuki的个人空间  | https://www.nayuki.io/  | 一个专注于为实际应用编写清晰简单代码的数学爱好者              |
 | Emanuele Feronato  | https://www.emanueleferonato.com/  | 意大利籍游戏开发专家              |
 | Una Kravets  | https://una.im/  | 设计/CSS/前端开发专家              |
+| Eli Grey  | https://eligrey.com/  | 一个专门一些记录前端经验或有趣事物的开发者              |
 
 
 ## 知名团队
@@ -79,7 +80,7 @@
 | AlloyTeam       | http://www.alloyteam.com/  | 腾讯的一个知名团队，拥有众多开源项目             |
 | TgIdeas       | http://tgideas.qq.com/  | 腾讯QQ的一个知名团队，在H5领域发布了大量文章     |
 | 百度EUX       | http://eux.baidu.com/  | 百度的一个知名团队，网站博客内容丰富             |
-| 凹凸实验室     | https://aotu.io/  | 京东用户体验设计部                   |
+| 凹凸实验室     | https://eligrey.com/  | 京东用户体验设计部                   |
 
 
 ## H5 专场
