@@ -132,6 +132,7 @@
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | BetterExplained     | https://betterexplained.com/  | 通俗易懂地解释一些数学概念             |
+| Desmos     | https://www.desmos.com/  | 免费地编辑有趣的数学图形             |
 | myPhysicsLab     | https://www.myphysicslab.com/  | Erik Neumann个人网站，使用canvas模拟物理世界             |
 | Physics Notes     | https://landgreen.github.io/physics/index.html  | 初高中物理笔记             |
 
