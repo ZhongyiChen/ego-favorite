@@ -71,6 +71,7 @@
 | Emanuele Feronato  | https://www.emanueleferonato.com/  | 意大利籍游戏开发专家              |
 | Una Kravets  | https://una.im/  | 设计/CSS/前端开发专家              |
 | Eli Grey  | https://eligrey.com/  | 一个专门一些记录前端经验或有趣事物的开发者              |
+| Sam Altman  | http://blog.samaltman.com/  | 喜爱谈论个人心得的一位博主              |
 
 
 ## 知名团队
