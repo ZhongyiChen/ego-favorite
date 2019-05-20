@@ -249,6 +249,7 @@
 | XSSChallengeWiki     | https://github.com/cure53/XSSChallengeWiki/wiki/prompt.ml  | XSS训练手册             |
 | Redirect Detective     | http://redirectdetective.com/  | 帮助你追踪网站的跳转路径             |
 | 移动端开发调试技巧     | https://futu.im/article/how-to-debug-webview/  | 本文汇总了一些在移动端开发方面的调试工具和常见技巧             |
+| Hacker Tools     | https://hacker-tools.github.io/lectures/  | 与hack客相关的课程系列              |
 
 
 ## 有趣站点
