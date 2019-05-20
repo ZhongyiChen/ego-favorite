@@ -135,6 +135,7 @@
 | Desmos     | https://www.desmos.com/  | 免费地编辑有趣的数学图形             |
 | myPhysicsLab     | https://www.myphysicslab.com/  | Erik Neumann个人网站，使用canvas模拟物理世界             |
 | Physics Notes     | https://landgreen.github.io/physics/index.html  | 初高中物理笔记             |
+| The Physics Hypertextbook     | https://physics.info/  | 物理学的基本教材             |
 
 
 ## HTML相关
