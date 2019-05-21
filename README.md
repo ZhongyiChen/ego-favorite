@@ -143,6 +143,7 @@
 | myPhysicsLab     | https://www.myphysicslab.com/  | Erik Neumann个人网站，使用canvas模拟物理世界             |
 | Physics Notes     | https://landgreen.github.io/physics/index.html  | 初高中物理笔记             |
 | The Physics Hypertextbook     | https://physics.info/  | 物理学的基本教材             |
+| Immersive Math     | http://immersivemath.com/ila/index.html  | 一本沉浸式的数学课本             |
 
 
 ## HTML相关
