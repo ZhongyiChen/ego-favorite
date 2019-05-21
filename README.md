@@ -132,6 +132,7 @@
 | rrweb.io  | https://www.rrweb.io/  | 开源的网页操作记录工具             |
 | colorSpace  |https://color.4ty2.fun/  | 一个能去掉纯色背景的图片工具             |
 | Marp  |https://yhatt.github.io/marp/  | 一个让你用 Markdown 格式编写 PPT 的软件             |
+| Inpainting  |https://www.nvidia.com/research/inpainting/  | 在线去除图片冗余部分的工具             |
 
 
 ## 数理相关
