@@ -57,6 +57,7 @@
 | Learning JavaScript Design  | https://addyosmani.com/resources/essentialjsdesignpatterns/book/  | JavaScript 设计模式          |
 | Read Free Data Science Books  | https://blog.paralleldots.com/data-science/must-read-free-data-science-books/  | 数据分析/机器学习 必看          |
 | Statistics Done Wrong  | https://www.statisticsdonewrong.com/index.html  | 数据分析必看          |
+| Networking Zine  | https://jvns.ca/networking-zine.pdf  | 介绍网络协议是如何工作的          |
 
 
 ## 知名博主
