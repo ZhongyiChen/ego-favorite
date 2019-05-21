@@ -275,6 +275,7 @@
 
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
+| wikiHow     | https://zh.wikihow.com/  | 你可以在这里学习做任何事             |
 | Creating a QR Code step by step     | https://www.nayuki.io/page/creating-a-qr-code-step-by-step  | 手把手教你制作一个二维码             |
 | How to Use SVG Patterns as Backgrounds     | https://webdesign.tutsplus.com/tutorials/how-to-use-svg-patterns-as-backgrounds--cms-31507  | 教你如何使用SVG图案作为网站背景             |
 | Creating A Basic Chrome Extension  | https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/  | 手把手教你创建一个 Chrome 扩展              |
