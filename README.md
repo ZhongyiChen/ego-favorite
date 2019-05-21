@@ -134,6 +134,7 @@
 | Marp  |https://yhatt.github.io/marp/  | 一个让你用 Markdown 格式编写 PPT 的软件             |
 | Inpainting  |https://www.nvidia.com/research/inpainting/  | 在线去除图片冗余部分的工具             |
 | DBdiagram  |https://dbdiagram.io/  | 在线创建关系数据库表             |
+| EditorConfig  |https://editorconfig.org/  | 为参与协作的不同开发者提供一套一致的代码样式             |
 
 
 ## 数理相关
