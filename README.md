@@ -244,6 +244,7 @@
 | ScriptOJ     | http://scriptoj.mangojuice.top/  | Web 前端开发测评系统             |
 | Curriculum     | https://functionalcs.github.io/curriculum/  | 给自学现代计算机科学用的课程体系             |
 | Scratchapixel     | http://www.scratchapixel.com/  | 计算机图形(像)学课程体系             |
+| Teach Yourself Computer Science     | https://teachyourselfcs.com/  | 计算机科学课程体系             |
 
 
 ## IT技巧
