@@ -79,6 +79,7 @@
 | Julia Evans  | https://jvns.ca/  | 一个网络开发的专家             |
 | JONH D. COOK  | https://www.johndcook.com/blog/  | 一个专门帮助企业解决数学、数据、数据隐式的专家             |
 | Areknawo  | https://areknawo.com/  | 一个JS/TS编程方面的专家             |
+| HookRace Blog | https://hookrace.net/  | 一个Linux开发专家             |
 
 
 ## 知名团队
