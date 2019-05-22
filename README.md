@@ -53,13 +53,14 @@
 
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
-| JavaScript标准参考教程     | http://javascript.ruanyifeng.com/  | 阮一峰所写的完整的ES5教程                |
+| JavaScript 标准参考教程     | http://javascript.ruanyifeng.com/  | 阮一峰所写的完整的ES5教程                |
 | ECMAScript 6 入门     | http://es6.ruanyifeng.com/  | 阮一峰所写的完整的ES6教程                     |
 | Learning JavaScript Design  | https://addyosmani.com/resources/essentialjsdesignpatterns/book/  | JavaScript 设计模式          |
 | Read Free Data Science Books  | https://blog.paralleldots.com/data-science/must-read-free-data-science-books/  | 数据分析/机器学习 必看          |
 | Statistics Done Wrong  | https://www.statisticsdonewrong.com/index.html  | 数据分析必看          |
 | Networking Zine  | https://jvns.ca/networking-zine.pdf  | 介绍网络协议是如何工作的          |
 | Simply Logical  | https://book.simply-logical.space/  | 用实例来讲解什么是智能推理          |
+| Linux 内核揭秘  | https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html  | 一系列关于 Linux 内核和其内在机理的帖子          |
 
 
 ## 知名博主
