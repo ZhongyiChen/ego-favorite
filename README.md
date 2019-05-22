@@ -288,6 +288,7 @@
 | Generative FM     | https://generative.fm/  | 一个可以播放无限不循环的电音的网站             |
 | Learn Anything     | https://learn-anything.xyz/  | 一个可以帮助你搜寻学习资源的网站             |
 | Datash     | https://datash.co/  | 一个可以在线收发加密文件文本的网站             |
+| Autocomplete VS graph     | https://anvaka.github.io/vs/  | 用放射图演示搜索引擎是如何解读一个关键词的             |
 
 
 ## How系列
