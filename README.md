@@ -77,6 +77,7 @@
 | Eli Grey  | https://eligrey.com/  | 一个专门一些记录前端经验或有趣事物的开发者              |
 | Sam Altman  | http://blog.samaltman.com/  | 喜爱谈论个人心得的一位博主              |
 | Julia Evans  | https://jvns.ca/  | 一个网络开发的专家             |
+| JONH D. COOK  | https://www.johndcook.com/blog/  | 一个专门帮助企业解决数学、数据、数据隐式的专家             |
 
 
 ## 知名团队
