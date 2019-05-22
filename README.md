@@ -49,7 +49,7 @@
 | Pony Foo  | https://ponyfoo.com/  | 一个专门提供关于网络平台、JavaScript、模块化、前端架构、性能优化等文章的网站             |
 
 
-## JavaScript 在线书籍
+## 在线书籍
 
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
@@ -59,6 +59,7 @@
 | Read Free Data Science Books  | https://blog.paralleldots.com/data-science/must-read-free-data-science-books/  | 数据分析/机器学习 必看          |
 | Statistics Done Wrong  | https://www.statisticsdonewrong.com/index.html  | 数据分析必看          |
 | Networking Zine  | https://jvns.ca/networking-zine.pdf  | 介绍网络协议是如何工作的          |
+| Simply Logical  | https://book.simply-logical.space/  | 用实例来讲解什么是智能推理          |
 
 
 ## 知名博主
