@@ -214,6 +214,7 @@
 | NandGame     | http://nandgame.com/  | 逻辑电路模拟测试             |
 | Emulator 101     | http://www.emulator101.com/  | 101 CPU 仿真器             |
 | Fpga4Fun     | https://www.fpga4fun.com/  | FPGA电路板入门             |
+| ZeptoBars     | https://zeptobars.com/  | 一个专门解构芯片的研究组织             |
 
 
 ## Sprite相关
