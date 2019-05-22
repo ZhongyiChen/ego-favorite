@@ -66,18 +66,19 @@
 
 | 网站名称          | 网站链接                                                | 网站描述                                          |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
-| 阮一峰的个人网站     | http://www.ruanyifeng.com/  | 阮一峰发布了大量的关于个人学习、生活的心得             |
-| 张鑫旭的个人网站     | http://www.zhangxinxu.com/  | 张鑫旭发布了大量的关于个人学习、生活的心得             |
-| Lea Verou的个人网站  | http://lea.verou.me/  | 《CSS 秘密》的作者，W3C委员会成员之一              |
-| EtherDream的原创空间  | https://www.cnblogs.com/index-html/  | 前端安全领域的知名博主              |
-| Glenn Fiedler的个人空间  | https://gafferongames.com/  | 游戏物理原理的知名博主              |
-| Nayuki的个人空间  | https://www.nayuki.io/  | 一个专注于为实际应用编写清晰简单代码的数学爱好者              |
+| 阮一峰     | http://www.ruanyifeng.com/  | 阮一峰发布了大量的关于个人学习、生活的心得             |
+| 张鑫旭     | http://www.zhangxinxu.com/  | 张鑫旭发布了大量的关于个人学习、生活的心得             |
+| Lea Verou  | http://lea.verou.me/  | 《CSS 秘密》的作者，W3C委员会成员之一              |
+| EtherDream  | https://www.cnblogs.com/index-html/  | 前端安全领域的知名博主              |
+| Glenn Fiedler  | https://gafferongames.com/  | 游戏物理原理的知名博主              |
+| Nayuki  | https://www.nayuki.io/  | 一个专注于为实际应用编写清晰简单代码的数学爱好者              |
 | Emanuele Feronato  | https://www.emanueleferonato.com/  | 意大利籍游戏开发专家              |
 | Una Kravets  | https://una.im/  | 设计/CSS/前端开发专家              |
 | Eli Grey  | https://eligrey.com/  | 一个专门一些记录前端经验或有趣事物的开发者              |
 | Sam Altman  | http://blog.samaltman.com/  | 喜爱谈论个人心得的一位博主              |
 | Julia Evans  | https://jvns.ca/  | 一个网络开发的专家             |
 | JONH D. COOK  | https://www.johndcook.com/blog/  | 一个专门帮助企业解决数学、数据、数据隐式的专家             |
+| Areknawo  | https://areknawo.com/  | 一个JS/TS编程方面的专家             |
 
 
 ## 知名团队
