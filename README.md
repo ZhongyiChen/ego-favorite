@@ -143,6 +143,7 @@
 | EditorConfig  | https://editorconfig.org/  | 为参与协作的不同开发者提供一套一致的代码样式             |
 | Convert Anything to Anything  | https://cloudconvert.com/  | 这是一个提供文件格式在线转换功能的网站             |
 | SheetJS  | http://sheetjs.com/  | 一个能解析 Excel 的JavaScript工具             |
+| iLoveIMG  | https://www.iloveimg.com/  | 一个在线编辑图片的工具             |
 
 
 ## 数理相关
