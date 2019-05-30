@@ -224,6 +224,7 @@
 | Emulator 101     | http://www.emulator101.com/  | 101 CPU 仿真器             |
 | Fpga4Fun     | https://www.fpga4fun.com/  | FPGA电路板入门             |
 | ZeptoBars     | https://zeptobars.com/  | 一个专门解构芯片的研究组织             |
+| sparkFun     | https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all  | 教你认识电路图里面每一个元件             |
 
 
 ## Sprite相关
