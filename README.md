@@ -81,6 +81,7 @@
 | JONH D. COOK  | https://www.johndcook.com/blog/  | 一个专门帮助企业解决数学、数据、数据隐式的专家             |
 | Areknawo  | https://areknawo.com/  | 一个JS/TS编程方面的专家             |
 | HookRace Blog | https://hookrace.net/  | 一个Linux开发专家             |
+| Brian Steffens     | http://briansteffens.com/  | 汇编达人 |
 
 
 ## 知名团队
@@ -257,6 +258,11 @@
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | How Does a Database Workd?     | https://cstack.github.io/db_tutorial/  | 手把手教你用REPL搭建一个SQLite数据库             |
 
+
+## Assembly相关
+
+| 网站名称          | 网站链接                                                | 网站描述                                          |
+| ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 
 ## 编程基础
 
