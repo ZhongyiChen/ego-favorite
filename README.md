@@ -82,6 +82,7 @@
 | Areknawo  | https://areknawo.com/  | 一个JS/TS编程方面的专家             |
 | HookRace Blog | https://hookrace.net/  | 一个Linux开发专家             |
 | Brian Steffens     | http://briansteffens.com/  | 汇编达人 |
+| Bennett Notes     | https://www.bennettnotes.com/  | 一个热爱发牢骚的工程师 |
 
 
 ## 知名团队
