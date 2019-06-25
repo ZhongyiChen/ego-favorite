@@ -147,6 +147,7 @@
 | SheetJS  | http://sheetjs.com/  | 一个能解析 Excel 的JavaScript工具             |
 | iLoveIMG  | https://www.iloveimg.com/  | 一个在线编辑图片的工具             |
 | Screen Recorder  | https://screenrecord.43z.one/  | 在线录屏工具             |
+| I18n  | https://i18ns.com/index.html  | 程序国际化利器             |
 
 
 ## 数理相关
