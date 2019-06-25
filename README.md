@@ -81,9 +81,10 @@
 | JONH D. COOK  | https://www.johndcook.com/blog/  | 一个专门帮助企业解决数学、数据、数据隐式的专家             |
 | Areknawo  | https://areknawo.com/  | 一个JS/TS编程方面的专家             |
 | HookRace Blog | https://hookrace.net/  | 一个Linux开发专家             |
-| Brian Steffens     | http://briansteffens.com/  | 汇编达人 |
-| Bennett Notes     | https://www.bennettnotes.com/  | 一个热爱发牢骚的工程师 |
-| DEBUG AND RELEASE     | https://debugandrelease.blogspot.com/  | 一群充满激情的UI/后端的工程师 |
+| Brian Steffens     | http://briansteffens.com/  | 汇编达人             |
+| Bennett Notes     | https://www.bennettnotes.com/  | 一个热爱发牢骚的工程师             |
+| DEBUG AND RELEASE     | https://debugandrelease.blogspot.com/  | 一群充满激情的UI/后端的工程师             |
+| Viktor's ramblings     | https://blog.viktorpetersson.com/  | 一个充满远程工作经验的开发者             |
 
 
 ## 知名团队
