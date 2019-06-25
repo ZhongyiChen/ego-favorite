@@ -307,6 +307,7 @@
 | Datash     | https://datash.co/  | 一个可以在线收发加密文件文本的网站             |
 | Autocomplete VS graph     | https://anvaka.github.io/vs/  | 用放射图演示搜索引擎是如何解读一个关键词的             |
 | Puffer     | https://puffer.stanford.edu/  | 一个在线直播美国国内著名电视频道的网站             |
+| Hello Github     | https://hellogithub.com/  | 一个收录github上的新项目的网站             |
 
 
 ## How系列
