@@ -261,6 +261,7 @@
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | InVision     | https://www.invisionapp.com/  | 一个提供免费设计素材的站点             |
 | Material Design     | https://material.io/  | Google关于IT界面设计的解决方案             |
+| 84 cognitive biases     | https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html  | 84个UI设计原则 |
 
 
 ## Game相关
