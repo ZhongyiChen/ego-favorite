@@ -325,6 +325,7 @@
 | Free OCR     | https://ocr.space/  | 一个在线识别图像/PDF中的文字的网站             |
 | 一个工具箱     | http://www.atoolbox.net/  | 功能很丰富的工具集合             |
 | 北邮人导航     | http://byr.wiki/  | 各种搜索都有             |
+| Animated Knots     | https://www.animatedknots.com/complete-knot-list  | 介绍各种绳结的系法             |
 
 
 ## How系列
