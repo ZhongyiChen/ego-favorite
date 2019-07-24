@@ -198,6 +198,7 @@
 | The MIT License     | https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html  | 解释 MIT 证书里每一句的意义和作用             |
 | PC Assembly     | https://pacman128.github.io/pcasm/  | 一个大学教授编写的关于32位汇编编程的教程             |
 | Semantic Versioning     | https://semver.org/  | 关于语义化版本的命名方法             |
+| 吐个槽     | https://tucao.qq.com/  | 一个供用户吐槽的插件服务             |
 
 
 ## Animation相关
