@@ -86,6 +86,7 @@
 | Bennett Notes     | https://www.bennettnotes.com/  | 一个热爱发牢骚的工程师             |
 | DEBUG AND RELEASE     | https://debugandrelease.blogspot.com/  | 一群充满激情的UI/后端的工程师             |
 | Viktor's ramblings     | https://blog.viktorpetersson.com/  | 一个充满远程工作经验的开发者             |
+| cc     | https://www.mattdesl.com/  | 艺术家/JS开发者/图形算法专家             |
 
 
 ## 知名团队
