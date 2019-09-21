@@ -1,5 +1,5 @@
-[![](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=ZhongyiChen.who-see)](https://github.com/ZhongyiChen/my-favorite-websites/edit/master/README.md)
-[![](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=ZhongyiChen.who-see)](https://github.com/ZhongyiChen/my-favorite-websites/edit/master/README.md)
+[![](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=ZhongyiChen.my-favorite-websites)](https://github.com/ZhongyiChen/my-favorite-websites/edit/master/README.md)
+[![](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=ZhongyiChen.my-favorite-websites)](https://github.com/ZhongyiChen/my-favorite-websites/edit/master/README.md)
 
 ## javaScript 基础内容
 
