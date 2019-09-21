@@ -1,3 +1,8 @@
+```markdown
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=)
+```
+
 ## javaScript 基础内容
 
 | 网站名称          | 网站链接                                                | 网站描述                                          |
