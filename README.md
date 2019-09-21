@@ -1,7 +1,5 @@
-```markdown
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=)
-![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=)
-```
+[![](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=ZhongyiChen.who-see)](https://github.com/ZhongyiChen/my-favorite-websites/edit/master/README.md)
+[![](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=ZhongyiChen.who-see)](https://github.com/ZhongyiChen/my-favorite-websites/edit/master/README.md)
 
 ## javaScript 基础内容
 
