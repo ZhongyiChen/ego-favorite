@@ -1,5 +1,12 @@
 # 站点集合
 
+## 视频音频
+
+**[美国电视](https://puffer.stanford.edu/)**
+> `TV`、`USA`、`CHANNELS`、``、``、
+>
+> 非科学上网就可以播放 NBC，CBS，ABC，PBS，Fox，CW 等节目平台，但需要登录，并且不大稳定。
+
 ## 信息技术
 
 **[深入系统](https://diveintosystems.org/book/)**
