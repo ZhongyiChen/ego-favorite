@@ -49,3 +49,8 @@
 > `GIT`、`EMOJI`、`SUBMIT`、`GIT HISTORY`
 >
 > 站点列出现阶段 github 平台支持的提交 git 记录时的通用语义 icon ，使用它可以使得 commit 记录更直观。
+
+**[SKIA](https://skia.org/)**
+> `2D`、`基础库`、`C++`、`GRAPHIC`
+>
+> 该库用于在画布上描绘文本、图形、图案，由谷歌公司维护。
