@@ -23,12 +23,12 @@
 >
 > 进行网站设计时可以获得对视觉比较友好的颜色。
 
-**[LOADING IO](https://loading.io/)**
+**[Loading IO](https://loading.io/)**
 > `DIY`、`LOADING`、`SVG`、`GIF`、`CSS`、`ICON`、`TEXT`
 >
 > 无论是 矢量图、英文文本，都能生成一个令你满意的 loading 效果来，更支持到处 SVG 或 GIF 或 PNG。
 
-**[LOTTIE](https://lottiefiles.com/)**
+**[Lottie](https://lottiefiles.com/)**
 > `SVG`、`ANIMATION`、`LIBRARY`、`AE`、`动画素材`、
 >
 > 一个 SVG 动画库，素材由设计师从 AE 导出，然后前端结合 Lottie Js 库来使用。
@@ -45,7 +45,7 @@
 >
 > 站点能最大限度地压缩用户提供的 SVG 图片，并且提供编码化后的图片内容。
 
-**[SKIA](https://skia.org/)**
+**[Skia](https://skia.org/)**
 > `2D`、`基础库`、`C++`、`GRAPHIC`
 >
 > 该库用于在画布上描绘文本、图形、图案，由谷歌公司维护。
@@ -62,7 +62,7 @@
 >
 > 平台提供 JavaScript 正则表达式的验证，简洁，高效，直观。
 
-**[GITMOJI](https://gitmoji.dev/)**
+**[Gitmoji](https://gitmoji.dev/)**
 > `GIT`、`EMOJI`、`SUBMIT`、`GIT HISTORY`
 >
 > 站点列出现阶段 github 平台支持的提交 git 记录时的通用语义 icon ，使用它可以使得 commit 记录更直观。
