@@ -16,6 +16,11 @@
 >
 > 进行网站设计时可以获得对视觉比较友好的颜色。
 
+**[LOADING IO](https://loading.io/)**
+> `DIY`、`LOADING`、`SVG`、`GIF`、`CSS`、`ICON`、`TEXT`
+>
+> 无论是 矢量图、英文文本，都能生成一个令你满意的 loading 效果来，更支持到处 SVG 或 GIF 或 PNG。
+
 ## 生产工具
 
 **[位图压缩](https://tinypng.com/)**
