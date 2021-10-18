@@ -29,7 +29,7 @@
 > 无论是 矢量图、英文文本，都能生成一个令你满意的 loading 效果来，更支持到处 SVG 或 GIF 或 PNG。
 
 **[Lottie](https://lottiefiles.com/)**
-> `SVG`、`ANIMATION`、`LIBRARY`、`AE`、`动画素材`、
+> `SVG`、`ANIMATION`、`LIBRARY`、`AE`、`动画素材`
 >
 > 一个 SVG 动画库，素材由设计师从 AE 导出，然后前端结合 Lottie Js 库来使用。
 
