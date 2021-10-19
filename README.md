@@ -26,6 +26,11 @@
 >
 > 站长用一篇篇通俗易懂的文章来解析各种数学符号及其概念，不得不说，这是个学习数学的好地方。作者说得很好：要学会懂得数学，而不是记住数学。
 
+**[数学公式](http://asciimath.org/)**
+> `Math`、`English`、`MathML`
+>
+> AsciiMath ，根据 [MathJax](https://www.mathjax.org/) 或本身的库，在前端实现了囊括几乎所有数学符号公式。如果你需要在页面上展示数学公式，那么这是一个很好的方式。
+
 **[物理仿真](https://www.myphysicslab.com/)**
 > `Physics`、`English`、`Animation`
 >
@@ -35,11 +40,6 @@
 > `Physics`、`English`、`物理笔记`
 >
 > 一个搭建在 Github 上的带有交互模拟器的站点，涉及力学、光学、磁学、电学等等。因为基于 Github 嘛，最好带上你的梯子。
-
-**[数学公式](http://asciimath.org/)**
-> `Math`、`English`、`MathML`
->
-> AsciiMath ，根据 [MathJax](https://www.mathjax.org/) 或本身的库，在前端实现了囊括几乎所有数学符号公式。如果你需要在页面上展示数学公式，那么这是一个很好的方式。
 
 ## 视觉设计
 
