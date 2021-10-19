@@ -31,6 +31,11 @@
 >
 > 动画化、可交互化，妥妥的一个力学线上实验室。
 
+**[探索物理](https://landgreen.github.io/physics/index.html)**
+> `Physics`、`English`、`物理笔记`
+>
+> 一个搭建在 Github 上的带有交互模拟器的站点，涉及力学、光学、磁学、电学等等。因为基于 Github 嘛，最好带上你的梯子。
+
 ## 视觉设计
 
 **[安全色](http://clrs.cc/)**
