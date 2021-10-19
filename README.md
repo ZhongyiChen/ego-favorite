@@ -41,6 +41,11 @@
 >
 > 一个搭建在 Github 上的带有交互模拟器的站点，涉及力学、光学、磁学、电学等等。因为基于 Github 嘛，最好带上你的梯子。
 
+**[英语词汇](https://www.vocabulary.com/)**
+> `English`、`Vocabulary`、`Dictionary`
+>
+> 一个专门记单词的地方，对单词的解析特别生动详细，英文学习者建议多逛逛。
+
 ## 视觉设计
 
 **[安全色](http://clrs.cc/)**
