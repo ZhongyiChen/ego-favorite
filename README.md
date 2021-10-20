@@ -14,17 +14,17 @@
 >
 > 这是一本带领程序员进入计算机内部世界的英文著作，它告诫那些只会写几个代码的程序员：要知其然，更要知其所以然。
 
+**[ES6 入门](http://es6.ruanyifeng.com/)**
+> `Javascript`、`ES6`、`书籍`
+>
+> 阮一峰编写的 ES6 入门教程，详细，用心。学习 ES6 ，现在也没有过时。
+
 ## 基础学科
 
 **[数学概念](https://mathlets.org/)**
 > `Math`、`English`、`Graphic Demos`
 >
 > 用坐标图形的方式介绍一些数学概念。不过，由于图形库的依赖，需要架好梯子才能访问。
-
-**[ES6 入门](http://es6.ruanyifeng.com/)**
-> `Javascript`、`ES6`、`书籍`
->
-> 阮一峰编写的 ES6 入门教程，详细，用心。学习 ES6 ，现在也没有过时。
 
 **[数学解析](https://betterexplained.com/)**
 > `Math`、`English`、`Simple`
