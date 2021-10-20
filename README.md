@@ -19,6 +19,11 @@
 >
 > 阮一峰编写的 ES6 入门教程，详细，用心。学习 ES6 ，现在也没有过时。
 
+**[现代 JS 教程](https://javascript.info/)**
+> `JavaScript`、`Web`、`书籍`
+>
+> 超详细的 Javascript 教程，就像"红宝书"一样。如果你想学习网页开发，推荐看它个几遍。
+
 **[Linux Inside](https://0xax.gitbooks.io/linux-insides/)**
 > `Linux`、`Kernel`、`书籍`
 >
