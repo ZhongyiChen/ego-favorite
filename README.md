@@ -78,6 +78,11 @@
 >
 > Web标准工作者 [Lea Verou](https://lea.verou.me/) (《CSS 秘密》的作者)强烈推荐！
 
+**[UI 渐变](https://uigradients.com/)**
+> `背景色`、`渐变`、`CSS`
+>
+> 大量的背景色渐变案例，相信有一款是你喜欢的。
+
 **[Loading IO](https://loading.io/)**
 > `DIY`、`LOADING`、`SVG`、`GIF`、`CSS`、`ICON`、`TEXT`
 >
