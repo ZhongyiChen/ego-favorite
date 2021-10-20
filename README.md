@@ -73,6 +73,11 @@
 >
 > 进行网站设计时可以获得对视觉比较友好的颜色。
 
+**[渐变背景](https://www.grabient.com/)**
+> `背景色`、`渐变`、`CSS`
+>
+> Web标准工作者 [Lea Verou](https://lea.verou.me/) (《CSS 秘密》的作者)强烈推荐！
+
 **[Loading IO](https://loading.io/)**
 > `DIY`、`LOADING`、`SVG`、`GIF`、`CSS`、`ICON`、`TEXT`
 >
