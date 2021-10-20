@@ -14,6 +14,11 @@
 >
 > 这是一本带领程序员进入计算机内部世界的英文著作，它告诫那些只会写几个代码的程序员：要知其然，更要知其所以然。
 
+**[Linux Inside](https://0xax.gitbooks.io/linux-insides/)**
+> `Linux`、`Kernel`、`书籍`
+>
+> 这是一本介绍 Linux 操作系统内核架构及原理的书，它有中文译本([点这里查看](https://xinqiu.gitbooks.io/linux-insides-cn/))，不过，翻译并未全部完成。
+
 **[ES6 入门](https://es6.ruanyifeng.com/)**
 > `Javascript`、`ES6`、`书籍`
 >
@@ -23,11 +28,6 @@
 > `JavaScript`、`Web`、`书籍`
 >
 > 超详细的 Javascript 教程，就像"红宝书"一样。如果你想学习网页开发，推荐看它个几遍。
-
-**[Linux Inside](https://0xax.gitbooks.io/linux-insides/)**
-> `Linux`、`Kernel`、`书籍`
->
-> 这是一本介绍 Linux 操作系统内核架构及原理的书，它有中文译本([点这里查看](https://xinqiu.gitbooks.io/linux-insides-cn/))，不过，翻译并未全部完成。
 
 ## 基础学科
 
