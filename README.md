@@ -19,6 +19,11 @@
 >
 > 阮一峰编写的 ES6 入门教程，详细，用心。学习 ES6 ，现在也没有过时。
 
+**[Linux Inside](https://0xax.gitbooks.io/linux-insides/)**
+> `Linux`、`Kernel`、`书籍`
+>
+> 这是一本介绍 Linux 操作系统内核架构及原理的书，它有中文译本([点这里查看](https://xinqiu.gitbooks.io/linux-insides-cn/))，不过，翻译并未全部完成。
+
 ## 基础学科
 
 **[数学概念](https://mathlets.org/)**
@@ -115,7 +120,7 @@
 **[HTTP BIN](http://httpbin.org/)**
 > `模拟请求`、`HTTP`、`HTTPS`
 >
-> 在线请求，开箱即用。但用处的确不大，只能在对返回的数据没有特定字段要求时，才能派上用场
+> 在线请求，开箱即用。但用处的确不大，只能在对返回的数据没有特定字段要求时，才能派上用场。
 
 ## 生活贴士
 
