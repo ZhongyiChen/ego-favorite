@@ -14,7 +14,7 @@
 >
 > 这是一本带领程序员进入计算机内部世界的英文著作，它告诫那些只会写几个代码的程序员：要知其然，更要知其所以然。
 
-**[ES6 入门](http://es6.ruanyifeng.com/)**
+**[ES6 入门](https://es6.ruanyifeng.com/)**
 > `Javascript`、`ES6`、`书籍`
 >
 > 阮一峰编写的 ES6 入门教程，详细，用心。学习 ES6 ，现在也没有过时。
@@ -99,6 +99,11 @@
 > `UML`、`流程图`、`工程图`、`电路图`、`各种图`
 >
 > 用过 Visio 吗？这就是一个比 Visio 还好用的在线画图的地方呀。怕在浏览器操作不安全？到 [Diagrams 主页](https://www.diagrams.net/) 去下载吧。
+
+**[Snap SVG](http://snapsvg.io/)**
+> `SVG`、`SVG 动画`、`JavaScript`
+>
+> 用脚本编写 SVG 内容，还用脚本让 SVG 活泼起来！如果你的网页需要这样处理 SVG，那毫无疑问，这个免费的库很适合你！
 
 ## 编程辅助
 
