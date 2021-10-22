@@ -51,6 +51,11 @@
 >
 > AsciiMath ，根据 [MathJax](https://www.mathjax.org/) 或本身的库，在前端实现了囊括几乎所有数学符号公式。如果你需要在页面上展示数学公式，那么这是一个很好的方式。
 
+**[数学工具](https://www.desmos.com/)**
+> `计算器`、`矩阵`、`图形`
+>
+> 免费的数学软件工具(在线版)，助你不断探索数学的奥妙。
+
 **[物理仿真](https://www.myphysicslab.com/)**
 > `Physics`、`English`、`Animation`
 >
