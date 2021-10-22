@@ -199,6 +199,11 @@
 >
 > 为多个使用不同 IDE 或编辑器的开发者提供一套一致的代码风格。
 
+**[MIT License](https://linux.cn/article-13180-1.html)**
+> `许可证书`、`法律解析`、`版权保护`
+>
+> 本文逐条地解析 MIT 许可证的文本，对代码版权关心的你，应当了解一下。当然，你可以查看 [原文](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) (须科学上网)。
+
 ## 生活贴士
 
 **[绳结系法](https://www.animatedknots.com/)**
