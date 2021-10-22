@@ -61,6 +61,11 @@
 >
 > 一个搭建在 Github 上的带有交互模拟器的站点，涉及力学、光学、磁学、电学等等。因为基于 Github 嘛，最好带上你的梯子。
 
+**[物理超级课本](https://physics.info/)**
+> `Physics`、`English`、`物理课本`
+>
+> 囊括了声光热力电，它可不仅仅是一本物理教科书，更是一份作者探索物理奥秘的热情结晶。
+
 **[英语词汇](https://www.vocabulary.com/)**
 > `English`、`Vocabulary`、`Dictionary`
 >
