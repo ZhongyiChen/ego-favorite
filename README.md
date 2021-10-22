@@ -204,6 +204,11 @@
 >
 > 本文逐条地解析 MIT 许可证的文本，对代码版权关心的你，应当了解一下。当然，你可以查看 [原文](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) (须科学上网)。
 
+**[版本语义](https://semver.org/)**
+> `Version`、`版本管理`、`发布管理`
+>
+> 你真的对 1.0.0 这样的版本号了如指掌吗？当你需要维护一份不断迭代的代码或开源仓库，那你需要这份知识。
+
 ## 生活贴士
 
 **[绳结系法](https://www.animatedknots.com/)**
