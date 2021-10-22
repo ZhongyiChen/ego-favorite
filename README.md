@@ -115,20 +115,27 @@
 >
 > 在线编辑数据库表，支持 Mysql、SQL server、PostgreSQL 等。
 
+**[Draw IO](https://app.diagrams.net/)**
+> `UML`、`流程图`、`工程图`、`电路图`、`各种图`
+>
+> 用过 Visio 吗？这就是一个比 Visio 还好用的在线画图的地方呀。怕在浏览器操作不安全？到 [Diagrams 主页](https://www.diagrams.net/) 去下载吧。
+
+## 框架码库
+
 **[Skia](https://skia.org/)**
 > `2D`、`基础库`、`C++`、`GRAPHIC`
 >
 > 该库用于在画布上描绘文本、图形、图案，由谷歌公司维护。
 
+**[Phaser IO](https://phaser.io/)**
+> `Game`、`JavaScript`、`Framework`
+>
+> HTML5 游戏框架！源码非常值得一读！更是开发网页游戏的利器！
+
 **[RRweb](https://www.rrweb.io/)**
 > `记录操作`、`回放操作`、`用户分析`、`DEBUG`
 >
 > 这是一个可以用来记录前端web用户的操作过程的 Javascript 库，也可用于提前录制作为展示 web 产品过程的备份。
-
-**[Draw IO](https://app.diagrams.net/)**
-> `UML`、`流程图`、`工程图`、`电路图`、`各种图`
->
-> 用过 Visio 吗？这就是一个比 Visio 还好用的在线画图的地方呀。怕在浏览器操作不安全？到 [Diagrams 主页](https://www.diagrams.net/) 去下载吧。
 
 **[Snap SVG](http://snapsvg.io/)**
 > `SVG`、`SVG 动画`、`JavaScript`
@@ -139,11 +146,6 @@
 > `物理`、`动画`、`物理动画`
 >
 > 厉害的脚本，由厉害的人编写，然后被拿来干厉害的事。如果你的页面需要进行现实仿真(算是厉害的事)，不要错过这个库(厉害的脚本)。
-
-**[Phaser IO](https://phaser.io/)**
-> `Game`、`JavaScript`、`Framework`
->
-> HTML5 游戏框架！源码非常值得一读！更是开发网页游戏的利器！
 
 ## 编程辅助
 
