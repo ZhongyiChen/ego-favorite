@@ -34,6 +34,11 @@
 >
 > Google 出品的 Web 开发指导博客，目标是让网站开发者编写出面向未来的优秀作品。前端开发者多逛逛，益处大大的。
 
+**[HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/)**
+> `HTML`、`前端开发`、`Web`
+>
+> 通俗地介绍了现有的 HTML 主要标签的特点和用法。这些基础，我想，前端开发人员，是要无条件掌握的。
+
 ## 基础学科
 
 **[数学概念](https://mathlets.org/)**
