@@ -39,6 +39,11 @@
 >
 > 通俗地介绍了现有的 HTML 主要标签的特点和用法。这些基础，我想，前端开发人员，是要无条件掌握的。
 
+**[CSS Triggers](https://csstriggers.com/)**
+> `CSS`、`CSS属性`、`前端页面编写`
+>
+> 一份描写了CSS各个属性发生变化时对整个页面的影响。CSS 触发器，很形象。
+
 **[Brian Steffens](https://www.briansteffens.com/)**
 > `C`、`Assembly`、`Blog`
 >
