@@ -39,6 +39,11 @@
 >
 > 通俗地介绍了现有的 HTML 主要标签的特点和用法。这些基础，我想，前端开发人员，是要无条件掌握的。
 
+**[Brian Steffens](https://www.briansteffens.com/)**
+> `C`、`Assembly`、`Blog`
+>
+> 谷歌开发者，博客主要记录一些与汇编相关的知识点，不过很久没更新啦。
+
 ## 基础学科
 
 **[数学概念](https://mathlets.org/)**
