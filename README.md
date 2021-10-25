@@ -7,6 +7,13 @@
 >
 > 非科学上网就可以播放 NBC，CBS，ABC，PBS，Fox，CW 等节目平台，但需要登录，并且不大稳定。
 
+## 游戏娱乐
+
+**[疯狂游戏](https://www.crazygames.com/)**
+> `游戏`、`PC`、`Web`
+>
+> 非常非常多的不水的 H5 游戏，不拿你的 PC 或 Laptop 试试嘛？
+
 ## 信息技术
 
 **[深入系统](https://diveintosystems.org/book/)**
