@@ -14,6 +14,11 @@
 >
 > 非常非常多的不水的 H5 游戏，不拿你的 PC 或 Laptop 试试嘛？
 
+**[Itch IO](https://itch.io/)**
+> `游戏`、`付费游戏`、`免费游戏`
+>
+> Windows、macOS、Linux、Android、iOS、Web，应有尽有！这简直就是一个游戏版的淘宝丫。
+
 ## 信息技术
 
 **[深入系统](https://diveintosystems.org/book/)**
