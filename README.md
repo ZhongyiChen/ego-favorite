@@ -266,7 +266,7 @@
 >
 > 支持图片和PDF(3页以内)，支持各种各样的语言(即中英都支持)，可以作为应急用的文字识别工具。但不得不说，界面真是丑啊。
 
-## 临时存在(看上面的够了，请忽略下面的内容)
+## 前沿技术
 
 **[检测人脸](https://ckeditor.com/blog/How-to-detect-human-faces-and-other-shapes-in-JavaScript/)**
 > `Web 原生`、`人脸识别`、`文本识别`
