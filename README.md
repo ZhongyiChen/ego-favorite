@@ -14,6 +14,11 @@
 >
 > 这是一本带领程序员进入计算机内部世界的英文著作，它告诫那些只会写几个代码的程序员：要知其然，更要知其所以然。
 
+**[做个操作系统](https://samypesse.gitbook.io/how-to-create-an-operating-system/)**
+> `操作系统`、`底层编程`、`书籍`
+>
+> 跟着步骤，一点点实现一个可用的命令行式的 Unix-based 操作系统，这难道不是一件令人兴奋的事吗？
+
 **[Linux Inside](https://0xax.gitbooks.io/linux-insides/)**
 > `Linux`、`Kernel`、`书籍`
 >
