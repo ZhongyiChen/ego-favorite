@@ -294,3 +294,8 @@
 > `数据分析`、`自然语言处理`、`机器学习`
 >
 > Wink 提供了一系列的 Javascript 工具帮助我们开发中遇到的自然语言相关难题。很遗憾，现在只支持英文(毕竟这是印度人码出来的)。
+
+**[Deep Learning](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)**
+> `书籍推荐`、`教学大纲`、`学习路线`
+>
+> 这只是一篇短文。但它已经足以指引你入门深度学习这门深奥的学科。一切都是数学呀！
