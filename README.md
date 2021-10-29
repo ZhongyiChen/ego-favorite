@@ -76,6 +76,11 @@
 >
 > 一份描写了CSS各个属性发生变化时对整个页面的影响。CSS 触发器，很形象。
 
+**[BEM](https://en.bem.info/)**
+> `编程规范`、`命名规范`、`组件思维`
+>
+> 我学会了HTML、CSS、Javascript，就是会前端编程了吗？No！你得学会命名。
+
 **[Brian Steffens](https://www.briansteffens.com/)**
 > `C`、`Assembly`、`Blog`
 >
