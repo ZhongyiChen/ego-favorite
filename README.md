@@ -81,6 +81,11 @@
 >
 > 我学会了HTML、CSS、Javascript，就是会前端编程了吗？No！你得学会命名。
 
+**[JS Doc](http://shouce.jb51.net/jsdoc/)**
+> `JSDoc`、`文档输出`、`注释规范`
+>
+> 文档！文档！文档！不要迷信自己的代码有多高的可读性。真的是很难读！请尽可能留下有意义的文档或注释。
+
 **[Brian Steffens](https://www.briansteffens.com/)**
 > `C`、`Assembly`、`Blog`
 >
