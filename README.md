@@ -195,6 +195,11 @@
 >
 > 除了官网的生动案例，你也可以查看 [DEMO](https://spring-playground.netlify.app/) 来获得更深刻的印象。这真的是一个很棒的动效工具。
 
+**[动它](https://animista.net/)**
+> `动效`、`CSS`、`生成代码`
+>
+> 有了它，就能满足你大部分简单动效的需求。界面不够美丽，但动效相当丰富！
+
 **[滑动图片](https://photoswipe.com/)**
 > `图片查看器`、`移动端交互`、`Swiper`
 >
