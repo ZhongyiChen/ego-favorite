@@ -365,6 +365,11 @@
 >
 > 支持图片和PDF(3页以内)，支持各种各样的语言(即中英都支持)，可以作为应急用的文字识别工具。但不得不说，界面真是丑啊。
 
+**[后缀全解](http://fileformats.archiveteam.org/)**
+> `文件后缀`、`文件格式`
+>
+> 你在某个设备上面看到了一份可疑的文件，但却完全不知道它是什么东西？何不拿其后缀到此站一试，说不定能解开你的迷惑。
+
 ## 前沿技术
 
 **[检测人脸](https://ckeditor.com/blog/How-to-detect-human-faces-and-other-shapes-in-JavaScript/)**
