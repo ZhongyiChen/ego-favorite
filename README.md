@@ -395,6 +395,11 @@
 >
 > 你在某个设备上面看到了一份可疑的文件，但却完全不知道它是什么东西？何不拿其后缀到此站一试，说不定能解开你的迷惑。
 
+**[Mac 软件](https://macwk.com/)**
+> `Mac`、`软件下载`、`软件安装`
+>
+> 从搜索到下载，从安装到卸载，你的 Mac 所需的大部分精品应用软件，都囊括其中了。Come on！
+
 ## 前沿技术
 
 **[检测人脸](https://ckeditor.com/blog/How-to-detect-human-faces-and-other-shapes-in-JavaScript/)**
