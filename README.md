@@ -46,6 +46,11 @@
 >
 > 跟着步骤，一点点实现一个可用的命令行式的 Unix-based 操作系统，这难道不是一件令人兴奋的事吗？
 
+**[计算结构](https://computationstructures.org/)**
+> `计算机原理`、`计算机底层课程`、`计算机科学`
+>
+> 手把手教你，从门电路，到大规模集成电路，再到完整的系统，一步一个脚印地，实现一个通用的数字计算系统。听起来就让人兴奋。
+
 **[Linux Inside](https://0xax.gitbooks.io/linux-insides/)**
 > `Linux`、`Kernel`、`书籍`
 >
