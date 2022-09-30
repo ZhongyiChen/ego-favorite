@@ -324,6 +324,11 @@
 >
 > 组件化是终端(Web、APP)的最硬核标准，而符合 W3C 标准的 Web 组件，才是真正面向未来的前端解决方案。未来可期。
 
+**[iDangero](https://idangero.us/)**
+> `Framework7`、`Swiper`、`Template7`
+>
+> 移动端优先的开源网站开发套件。大名鼎鼎的 Swiper 就出自于 iDangero 。
+
 ## 编程辅助
 
 **[正则匹配](https://regexr.com/)**
