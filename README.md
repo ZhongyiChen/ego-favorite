@@ -292,6 +292,11 @@
 >
 > 你自认为自己学会了 svg 路径的各种语法了？来此小试牛刀！
 
+**[Fontmin](http://ecomfe.github.io/fontmin/)**
+> `字体压缩`、`字体提取`、`绿色开源`
+>
+> 第一个纯 JavaScript 字体子集化方案，简单好用。
+
 ## 框架码库
 
 **[Skia](https://skia.org/)**
